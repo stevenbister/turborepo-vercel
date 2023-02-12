@@ -5,7 +5,7 @@
   "sideEffects": false,
   "scripts": {
     "build": "remix build",
-    "dev": "remix dev --port 2000",
+    "dev": "PORT=2000 remix dev",
     "typecheck": "tsc"
   },
   "dependencies": {
