@@ -1,11 +1,11 @@
 {
-  "name": "remix-app",
+  "name": "remix-app-2",
   "version": "0.0.0",
   "private": true,
   "sideEffects": false,
   "scripts": {
     "build": "remix build",
-    "dev": "remix dev --port 2000",
+    "dev": "remix dev --port 3000",
     "typecheck": "tsc"
   },
   "dependencies": {
